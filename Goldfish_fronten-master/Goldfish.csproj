@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Pages\Entrepreneur" />
+      <Folder Include="Pages\Investor" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+      <PackageReference Include="MySqlConnector" Version="2.1.2" />
+      <PackageReference Include="System.Net.Http.Json" Version="6.0.0" />
+      <PackageReference Include="Utf8Json" Version="1.3.7" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="Models\Mysqlconnector.cs" />
+      <Compile Remove="Models\SqlConnect.cs" />
+    </ItemGroup>
+
+</Project>

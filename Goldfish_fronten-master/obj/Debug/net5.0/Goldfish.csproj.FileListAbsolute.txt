@@ -1,0 +1,252 @@
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.csproj.AssemblyReference.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.AssemblyInfoInputs.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.AssemblyInfo.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.csproj.CoreCompileInputs.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.MvcApplicationPartsAssemblyInfo.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.RazorAssemblyInfo.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.RazorAssemblyInfo.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\staticwebassets\Goldfish.StaticWebAssets.Manifest.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\staticwebassets\Goldfish.StaticWebAssets.xml
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\scopedcss\bundle\Goldfish.styles.css
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.TagHelpers.input.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.TagHelpers.output.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.RazorCoreGenerate.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.RazorTargetAssemblyInfo.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.RazorTargetAssemblyInfo.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\ref\Goldfish.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.pdb
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\appsettings.Development.json
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\appsettings.json
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.exe
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.deps.json
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.runtimeconfig.json
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.runtimeconfig.dev.json
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ref\Goldfish.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.pdb
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.Views.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Goldfish.Views.pdb
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.Views.pdb
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.genruntimeconfig.cache
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Goldfish.csproj.CopyComplete
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Humanizer.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Entrepreneur\Profile.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Shared\_Header.cshtml.g.cs
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\MySqlConnector.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\Utf8Json.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Net.Http.Json.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\bin\Debug\net5.0\System.Text.Json.dll
+F:\Git repo\BenTen\fronten\SWTF\Goldfish\obj\Debug\net5.0\Razor\Pages\Investor\InvestorProfile.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\appsettings.Development.json
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\appsettings.json
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.StaticWebAssets.xml
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.exe
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.deps.json
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.runtimeconfig.json
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.runtimeconfig.dev.json
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ref\Goldfish.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.pdb
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.Views.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Goldfish.Views.pdb
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Humanizer.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\MySqlConnector.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Net.Http.Json.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\System.Text.Json.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\Utf8Json.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.csproj.AssemblyReference.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.AssemblyInfoInputs.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.AssemblyInfo.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.csproj.CoreCompileInputs.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.MvcApplicationPartsAssemblyInfo.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.RazorAssemblyInfo.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.RazorAssemblyInfo.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\scopedcss\bundle\Goldfish.styles.css
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\staticwebassets\Goldfish.StaticWebAssets.Manifest.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.TagHelpers.input.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.TagHelpers.output.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.RazorCoreGenerate.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Entrepreneur\Profile.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Investor\InvestorProfile.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Shared\_Header.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.RazorTargetAssemblyInfo.cache
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.RazorTargetAssemblyInfo.cs
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.Views.pdb
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.csproj.CopyComplete
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\ref\Goldfish.dll
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.pdb
+D:\Bruno Neves\Ispgaya\3º ano\5º semestre\TeN\goldfishbowl\Goldfish_fronten-master\obj\Debug\net5.0\Goldfish.genruntimeconfig.cache

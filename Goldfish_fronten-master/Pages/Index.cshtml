@@ -1,0 +1,30 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-left">
+    <div class="row">
+        <div class="col-md-4">
+            @if (@Model.Msg != null)
+            {
+                <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                    @Model.Msg
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            }
+            <h1 class="display-4">Login</h1>
+            <form method="post">
+                <label class="col-form-label">Name</label>
+                <input class="form-control" type="text" asp-for="Log.Name" placeholder="Name"/>
+                <label class="col-form-label">Password</label>
+                <input class="form-control" type="text" asp-for="Log.Pass" placeholder="Password"/>
+                <button class="btn btn-primary" style="margin: 5px" type="submit" onclick="">Submit</button>
+            </form>
+        </div>
+        <div class="col-md-8 col-lg-8"></div>
+    </div>
+</div>
